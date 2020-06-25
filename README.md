@@ -2,6 +2,10 @@
 
 ## Build Setup
 
+# DEMO
+
+[Heroku exemple](https://nuxt-fundamentals-gabriel.herokuapp.com)
+
 ```bash
 # install dependencies
 $ yarn install
